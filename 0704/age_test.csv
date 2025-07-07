@@ -1,0 +1,569 @@
+filestem,image_path,age,fracture_visible,gender,ao_primary,ao_subtypes
+2553_0355915126_01_WRI-R1_F000,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2553_0355915126_01_WRI-R1_F000.png,0,1,F,M/2.1,['M/2.1']
+2834_0434835410_01_WRI-R1_M000,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2834_0434835410_01_WRI-R1_M000.png,0,0,M,Unknown,[]
+4588_1034162125_01_WRI-L2_F000,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/4588_1034162125_01_WRI-L2_F000.png,0,0,F,Unknown,[]
+4428_0872287776_01_WRI-R2_M000,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4428_0872287776_01_WRI-R2_M000.png,0,0,M,Unknown,[]
+2822_0516653645_01_WRI-R2_M000,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2822_0516653645_01_WRI-R2_M000.png,0,0,M,Unknown,[]
+2834_0434835466_01_WRI-R2_M000,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2834_0434835466_01_WRI-R2_M000.png,0,0,M,Unknown,[]
+2160_1133005054_01_WRI-R1_M000,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2160_1133005054_01_WRI-R1_M000.png,0,0,M,Unknown,[]
+5371_0734306888_01_WRI-R2_M000,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5371_0734306888_01_WRI-R2_M000.png,0,1,M,M/2.1,['M/2.1']
+0025_0483842858_01_WRI-L1_F000,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0025_0483842858_01_WRI-L1_F000.png,0,1,F,M/2.1,['M/2.1']
+3023_0295611642_01_WRI-L1_F000,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3023_0295611642_01_WRI-L1_F000.png,0,1,F,/2,['/2']
+6049_1154680318_01_WRI-R3_F000,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/6049_1154680318_01_WRI-R3_F000.png,0,1,F,M/2.1,['M/2.1']
+2822_0516653608_01_WRI-R1_M000,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2822_0516653608_01_WRI-R1_M000.png,0,0,M,Unknown,[]
+3023_0295611695_01_WRI-L2_F000,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3023_0295611695_01_WRI-L2_F000.png,0,1,F,/2,['/2']
+4428_0872287711_01_WRI-R1_M000,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4428_0872287711_01_WRI-R1_M000.png,0,0,M,Unknown,[]
+0673_0390923946_01_WRI-L2_F000,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0673_0390923946_01_WRI-L2_F000.png,0,0,F,M/2.1,['M/2.1']
+0673_0390923893_01_WRI-L1_F000,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0673_0390923893_01_WRI-L1_F000.png,0,1,F,M/2.1,['M/2.1']
+5371_0734306850_01_WRI-R1_M000,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5371_0734306850_01_WRI-R1_M000.png,0,1,M,M/2.1,['M/2.1']
+4992_1127399742_01_WRI-L2_M000,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/4992_1127399742_01_WRI-L2_M000.png,0,1,M,M/3.1,"['M/3.1', 'M/2.1']"
+4992_1127399701_01_WRI-L1_M000,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/4992_1127399701_01_WRI-L1_M000.png,0,1,M,M/3.1,"['M/3.1', 'M/2.1']"
+0475_0916035018_01_WRI-R1_F000,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0475_0916035018_01_WRI-R1_F000.png,0,1,F,M/2.1,['M/2.1']
+6049_1154680271_01_WRI-R1_F000,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/6049_1154680271_01_WRI-R1_F000.png,0,1,F,M/2.1,['M/2.1']
+4588_1034162079_01_WRI-L1_F000,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/4588_1034162079_01_WRI-L1_F000.png,0,0,F,Unknown,[]
+0475_0916035066_01_WRI-R2_F000,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0475_0916035066_01_WRI-R2_F000.png,0,1,F,M/2.1,['M/2.1']
+2917_0828455516_01_WRI-R1_M000,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2917_0828455516_01_WRI-R1_M000.png,0,1,M,M/2.1,['M/2.1']
+0025_0483842914_01_WRI-L2_F000,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0025_0483842914_01_WRI-L2_F000.png,0,1,F,M/2.1,['M/2.1']
+2917_0828455572_01_WRI-R2_M000,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2917_0828455572_01_WRI-R2_M000.png,0,1,M,M/2.1,['M/2.1']
+2553_0355915185_01_WRI-R2_F000,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2553_0355915185_01_WRI-R2_F000.png,0,1,F,M/2.1,['M/2.1']
+1369_0474628604_01_WRI-L1_F001,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1369_0474628604_01_WRI-L1_F001.png,1,0,F,Unknown,[]
+0228_1161955705_01_WRI-L2_F001,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0228_1161955705_01_WRI-L2_F001.png,1,0,F,Unknown,[]
+3694_0537214209_02_WRI-R1_M001,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3694_0537214209_02_WRI-R1_M001.png,1,0,M,/2,['/2']
+5745_0909122532_01_WRI-L2_M001,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5745_0909122532_01_WRI-L2_M001.png,1,0,M,Unknown,[]
+1058_0474477619_01_WRI-L2_F001,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1058_0474477619_01_WRI-L2_F001.png,1,1,F,M/2.1,['M/2.1']
+2182_0379863574_01_WRI-R1_M001,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2182_0379863574_01_WRI-R1_M001.png,1,1,M,M/2.1,['M/2.1']
+5212_1078434210_01_WRI-R2_M001,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5212_1078434210_01_WRI-R2_M001.png,1,0,M,Unknown,[]
+3694_0536531322_01_WRI-R1_M001,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3694_0536531322_01_WRI-R1_M001.png,1,1,M,/2,['/2']
+1992_0785479154_01_WRI-L3_F001,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1992_0785479154_01_WRI-L3_F001.png,1,0,F,Unknown,[]
+5776_0847898393_01_WRI-R1_F001,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5776_0847898393_01_WRI-R1_F001.png,1,0,F,Unknown,[]
+5200_1061992672_01_WRI-R2_F001,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5200_1061992672_01_WRI-R2_F001.png,1,1,F,M/2.1,['M/2.1']
+3320_0970269417_01_WRI-L1_M001,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3320_0970269417_01_WRI-L1_M001.png,1,1,M,/2,"['/2', 'M/2.1']"
+0563_0852376160_01_WRI-L2_M001,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0563_0852376160_01_WRI-L2_M001.png,1,0,M,Unknown,[]
+0249_1109609409_01_WRI-R1_M001,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0249_1109609409_01_WRI-R1_M001.png,1,1,M,M/2.1,['M/2.1']
+3576_1172544442_01_WRI-R1_M001,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3576_1172544442_01_WRI-R1_M001.png,1,1,M,M/3.1,['M/3.1']
+1207_0833816281_01_WRI-R2_M001,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1207_0833816281_01_WRI-R2_M001.png,1,1,M,M/2.1,['M/2.1']
+0017_1043285040_01_WRI-L1_F001,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0017_1043285040_01_WRI-L1_F001.png,1,0,F,Unknown,[]
+1029_0475556021_02_WRI-R2_M001,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1029_0475556021_02_WRI-R2_M001.png,1,0,M,Unknown,[]
+5047_0846545796_01_WRI-L1_M001,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5047_0846545796_01_WRI-L1_M001.png,1,1,M,M/3.1,"['M/3.1', 'M/2.1']"
+3116_0387357266_01_WRI-L2_F001,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3116_0387357266_01_WRI-L2_F001.png,1,0,F,Unknown,[]
+0820_0324546645_02_WRI-R3_M001,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0820_0324546645_02_WRI-R3_M001.png,1,1,M,M/2.1,['M/2.1']
+0330_0306002053_01_WRI-R1_M001,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0330_0306002053_01_WRI-R1_M001.png,1,1,M,M/2.1,['M/2.1']
+0480_0953011791_01_WRI-R1_M001,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0480_0953011791_01_WRI-R1_M001.png,1,0,M,Unknown,[]
+1549_0423866683_01_WRI-L2_M001,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1549_0423866683_01_WRI-L2_M001.png,1,0,M,Unknown,[]
+5200_1061992640_01_WRI-R1_F001,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5200_1061992640_01_WRI-R1_F001.png,1,1,F,M/2.1,['M/2.1']
+4225_0400401010_02_WRI-L2_M001,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4225_0400401010_02_WRI-L2_M001.png,1,1,M,M/2.1,['M/2.1']
+5212_1078434170_01_WRI-R1_M001,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5212_1078434170_01_WRI-R1_M001.png,1,0,M,Unknown,[]
+2366_0439500531_01_WRI-R1_M001,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2366_0439500531_01_WRI-R1_M001.png,1,1,M,M/2.1,['M/2.1']
+5064_0674783098_01_WRI-R2_F001,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5064_0674783098_01_WRI-R2_F001.png,1,0,F,Unknown,[]
+0920_1183180123_01_WRI-L2_F001,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0920_1183180123_01_WRI-L2_F001.png,1,0,F,Unknown,[]
+3464_0977566841_01_WRI-R1_M002,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3464_0977566841_01_WRI-R1_M002.png,2,1,M,M/3.1,['M/3.1']
+3091_1045936339_01_WRI-R2_F002,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3091_1045936339_01_WRI-R2_F002.png,2,0,F,Unknown,[]
+5368_0186231844_01_WRI-R1_F002,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5368_0186231844_01_WRI-R1_F002.png,2,0,F,Unknown,[]
+1899_1121658414_01_WRI-R1_M002,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1899_1121658414_01_WRI-R1_M002.png,2,1,M,M/2.1,['M/2.1']
+6074_0751888511_01_WRI-R1_M002,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/6074_0751888511_01_WRI-R1_M002.png,2,0,M,Unknown,[]
+5206_1019430661_01_WRI-R1_M002,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5206_1019430661_01_WRI-R1_M002.png,2,1,M,M/3.1,"['M/3.1', 'M/2.1']"
+3298_0248236529_01_WRI-R1_M002,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3298_0248236529_01_WRI-R1_M002.png,2,1,M,M/2.1,['M/2.1']
+5261_0751928096_01_WRI-R2_F002,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5261_0751928096_01_WRI-R2_F002.png,2,1,F,M/2.1,['M/2.1']
+3464_0980045612_06_WRI-R1_M002,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3464_0980045612_06_WRI-R1_M002.png,2,1,M,M/3.1,['M/3.1']
+3836_0380560918_03_WRI-R1_M002,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3836_0380560918_03_WRI-R1_M002.png,2,1,M,M/3.1,"['M/3.1', 'M/2.1']"
+3858_0526718047_01_WRI-L2_F002,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3858_0526718047_01_WRI-L2_F002.png,2,0,F,Unknown,[]
+5833_0413833636_01_WRI-R1_M002,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5833_0413833636_01_WRI-R1_M002.png,2,0,M,Unknown,[]
+3938_0565305024_02_WRI-L2_M002,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3938_0565305024_02_WRI-L2_M002.png,2,0,M,Unknown,[]
+3464_0978156355_03_WRI-R2_M002,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3464_0978156355_03_WRI-R2_M002.png,2,1,M,M/3.1,['M/3.1']
+3464_0978756360_04_WRI-R1_M002,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3464_0978756360_04_WRI-R1_M002.png,2,1,M,M/3.1,['M/3.1']
+0860_0815914366_01_WRI-R2_F002,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0860_0815914366_01_WRI-R2_F002.png,2,1,F,M/2.1,['M/2.1']
+5447_1038256970_01_WRI-L1_M002,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5447_1038256970_01_WRI-L1_M002.png,2,0,M,Unknown,[]
+3906_0260034379_01_WRI-R2_F002,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3906_0260034379_01_WRI-R2_F002.png,2,1,F,M/3.1,"['M/3.1', 'M/2.1']"
+3836_0378505733_01_WRI-R1_M002,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3836_0378505733_01_WRI-R1_M002.png,2,1,M,M/3.1,"['M/3.1', 'M/2.1']"
+3831_0971323947_01_WRI-R2_F002,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3831_0971323947_01_WRI-R2_F002.png,2,0,F,Unknown,[]
+1581_0854011388_01_WRI-L2_M002,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1581_0854011388_01_WRI-L2_M002.png,2,0,M,Unknown,[]
+5206_1020640006_03_WRI-R2_M002,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5206_1020640006_03_WRI-R2_M002.png,2,1,M,M/3.1,"['M/3.1', 'M/2.1']"
+2218_0440918353_01_WRI-L2_F002,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2218_0440918353_01_WRI-L2_F002.png,2,0,F,Unknown,[]
+2154_0119958737_01_WRI-R2_M002,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2154_0119958737_01_WRI-R2_M002.png,2,0,M,Unknown,[]
+4661_0405082997_01_WRI-L1_M002,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/4661_0405082997_01_WRI-L1_M002.png,2,1,M,M/2.1,['M/2.1']
+4703_0835406676_01_WRI-L1_M002,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/4703_0835406676_01_WRI-L1_M002.png,2,1,M,M/2.1,['M/2.1']
+0929_0778433056_01_WRI-R1_M002,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0929_0778433056_01_WRI-R1_M002.png,2,1,M,/2,['/2']
+1602_0218762303_02_WRI-L1_F002,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1602_0218762303_02_WRI-L1_F002.png,2,1,F,M/3.1,"['M/3.1', 'M/2.1']"
+3831_0971323928_01_WRI-R1_F002,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3831_0971323928_01_WRI-R1_F002.png,2,0,F,Unknown,[]
+2257_0800655976_01_WRI-R1_F002,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2257_0800655976_01_WRI-R1_F002.png,2,0,F,Unknown,[]
+0850_0940603163_01_WRI-L2_F003,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0850_0940603163_01_WRI-L2_F003.png,3,1,F,M/3.1,"['M/3.1', 'M/2.1']"
+1031_0479427709_01_WRI-L2_F003,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1031_0479427709_01_WRI-L2_F003.png,3,0,F,Unknown,[]
+3421_0544765065_01_WRI-L1_F003,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3421_0544765065_01_WRI-L1_F003.png,3,0,F,Unknown,[]
+4696_0777996514_01_WRI-R2_F003,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/4696_0777996514_01_WRI-R2_F003.png,3,1,F,M/2.1,['M/2.1']
+2933_0931953675_01_WRI-L2_F003,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2933_0931953675_01_WRI-L2_F003.png,3,1,F,M/2.1,['M/2.1']
+0336_1105608687_01_WRI-R2_F003,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0336_1105608687_01_WRI-R2_F003.png,3,0,F,Unknown,[]
+0208_1047117174_04_WRI-L2_F003,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0208_1047117174_04_WRI-L2_F003.png,3,1,F,M/3.1,"['M/3.1', 'M/2.1']"
+5474_0834280982_01_WRI-L2_M003,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5474_0834280982_01_WRI-L2_M003.png,3,1,M,M/3.1,['M/3.1']
+4892_0854378835_01_WRI-L2_M003,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/4892_0854378835_01_WRI-L2_M003.png,3,1,M,M/2.1,['M/2.1']
+5594_1073865723_01_WRI-R1_M003,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5594_1073865723_01_WRI-R1_M003.png,3,0,M,M/2.1,['M/2.1']
+1510_1002499079_01_WRI-R2_M003,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1510_1002499079_01_WRI-R2_M003.png,3,1,M,M/2.1,['M/2.1']
+1195_0457362377_01_WRI-R1_M003,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1195_0457362377_01_WRI-R1_M003.png,3,1,M,M/2.1,['M/2.1']
+5455_0885908009_01_WRI-R1_F003,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5455_0885908009_01_WRI-R1_F003.png,3,1,F,M/2.1,['M/2.1']
+3990_1069963323_02_WRI-R1_F003,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3990_1069963323_02_WRI-R1_F003.png,3,1,F,M/3.1,['M/3.1']
+0208_1050745893_05_WRI-L2_F003,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0208_1050745893_05_WRI-L2_F003.png,3,1,F,M/3.1,"['M/3.1', 'M/2.1']"
+4342_1081168974_01_WRI-R1_M003,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4342_1081168974_01_WRI-R1_M003.png,3,1,M,E/2.1,['E/2.1']
+1670_0923184617_01_WRI-L1_F003,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1670_0923184617_01_WRI-L1_F003.png,3,1,F,/2,"['/2', 'M/2.1']"
+4311_1252734301_01_WRI-L1_M003,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4311_1252734301_01_WRI-L1_M003.png,3,1,M,M/2.1,['M/2.1']
+3944_0687544621_01_WRI-L2_M003,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3944_0687544621_01_WRI-L2_M003.png,3,1,M,M/2.1,['M/2.1']
+3421_0544765197_01_WRI-L2_F003,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3421_0544765197_01_WRI-L2_F003.png,3,0,F,Unknown,[]
+0393_0386035498_01_WRI-L1_F003,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0393_0386035498_01_WRI-L1_F003.png,3,0,F,Unknown,[]
+1623_0879711182_01_WRI-L2_M003,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1623_0879711182_01_WRI-L2_M003.png,3,1,M,M/3.1,"['M/3.1', 'M/2.1']"
+5451_0571300882_01_WRI-L1_F003,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5451_0571300882_01_WRI-L1_F003.png,3,0,F,Unknown,[]
+0070_0614525072_01_WRI-L2_F003,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0070_0614525072_01_WRI-L2_F003.png,3,0,F,Unknown,[]
+4307_0997032640_01_WRI-L1_F003,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4307_0997032640_01_WRI-L1_F003.png,3,1,F,M/3.1,"['M/3.1', 'M/2.1']"
+4562_0501830939_04_WRI-R1_M003,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/4562_0501830939_04_WRI-R1_M003.png,3,1,M,M/3.1,"['M/3.1', 'M/2.1']"
+5858_1045226294_05_WRI-R2_M003,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5858_1045226294_05_WRI-R2_M003.png,3,1,M,/2,['/2']
+3483_0341351433_03_WRI-R2_M003,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3483_0341351433_03_WRI-R2_M003.png,3,1,M,M/2.1,['M/2.1']
+4281_0632421561_01_WRI-L1_M003,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4281_0632421561_01_WRI-L1_M003.png,3,0,M,Unknown,[]
+3109_0331614843_03_WRI-R1_M003,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3109_0331614843_03_WRI-R1_M003.png,3,1,M,M/2.1,['M/2.1']
+1786_1051711110_01_WRI-R1_F004,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1786_1051711110_01_WRI-R1_F004.png,4,1,F,/4,['/4']
+0384_0780430473_01_WRI-L1_F004,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0384_0780430473_01_WRI-L1_F004.png,4,1,F,M/2.1,['M/2.1']
+4508_0624816611_01_WRI-L2_M004,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/4508_0624816611_01_WRI-L2_M004.png,4,1,M,M/3.1,['M/3.1']
+3838_0526782678_03_WRI-L1_M004,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3838_0526782678_03_WRI-L1_M004.png,4,1,M,M/3.1,"['M/3.1', 'M/2.1']"
+5518_0509737981_02_WRI-R1_F004,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5518_0509737981_02_WRI-R1_F004.png,4,1,F,M/3.1,['M/3.1']
+5551_1110746286_01_WRI-R1_M004,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5551_1110746286_01_WRI-R1_M004.png,4,1,M,/2,"['/2', 'M/2.1']"
+1904_0621174953_01_WRI-R2_F004,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1904_0621174953_01_WRI-R2_F004.png,4,1,F,M/2.1,['M/2.1']
+1040_1144466643_02_WRI-R1_F004,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1040_1144466643_02_WRI-R1_F004.png,4,1,F,M/3.1,['M/3.1']
+5207_0301277129_01_WRI-R2_F004,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5207_0301277129_01_WRI-R2_F004.png,4,0,F,Unknown,[]
+4348_0968529595_01_WRI-L1_M004,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4348_0968529595_01_WRI-L1_M004.png,4,1,M,M/2.1,['M/2.1']
+1953_1119579067_02_WRI-R1_F004,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1953_1119579067_02_WRI-R1_F004.png,4,1,F,M/3.1,['M/3.1']
+5518_0511552349_04_WRI-R2_F004,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5518_0511552349_04_WRI-R2_F004.png,4,1,F,M/3.1,['M/3.1']
+0345_0648144791_01_WRI-L1_F004,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0345_0648144791_01_WRI-L1_F004.png,4,1,F,M/2.1,['M/2.1']
+1907_0949790464_01_WRI-L2_F004,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1907_0949790464_01_WRI-L2_F004.png,4,1,F,M/2.1,['M/2.1']
+1786_1052910179_02_WRI-R2_F004,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1786_1052910179_02_WRI-R2_F004.png,4,1,F,/4,['/4']
+6064_0993979741_01_WRI-R2_M004,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/6064_0993979741_01_WRI-R2_M004.png,4,1,M,M/2.1,['M/2.1']
+5567_0259831209_02_WRI-R1_M004,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5567_0259831209_02_WRI-R1_M004.png,4,1,M,/2,['/2']
+1302_0747234888_01_WRI-R3_M004,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1302_0747234888_01_WRI-R3_M004.png,4,1,M,M/3.1,"['M/3.1', 'M/2.1']"
+3288_0452161191_01_WRI-R1_F004,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3288_0452161191_01_WRI-R1_F004.png,4,1,F,M/2.1,['M/2.1']
+0284_0766834912_01_WRI-L1_F004,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0284_0766834912_01_WRI-L1_F004.png,4,0,F,Unknown,[]
+3664_0804567146_01_WRI-R2_M004,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3664_0804567146_01_WRI-R2_M004.png,4,1,M,M/3.1,['M/3.1']
+0202_0344339825_01_WRI-R1_F004,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0202_0344339825_01_WRI-R1_F004.png,4,0,F,Unknown,[]
+4362_0934194785_01_WRI-R2_F004,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4362_0934194785_01_WRI-R2_F004.png,4,1,F,M/2.1,['M/2.1']
+1587_1201781802_01_WRI-R2_F004,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1587_1201781802_01_WRI-R2_F004.png,4,0,F,Unknown,[]
+1040_1144466729_02_WRI-R1_F004,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1040_1144466729_02_WRI-R1_F004.png,4,1,F,M/3.1,['M/3.1']
+5152_1003715887_01_WRI-R2_M004,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5152_1003715887_01_WRI-R2_M004.png,4,1,M,M/2.1,['M/2.1']
+4114_0572128081_01_WRI-L1_M004,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4114_0572128081_01_WRI-L1_M004.png,4,1,M,M/3.1,"['M/3.1', 'M/2.1']"
+3519_0387154323_03_WRI-L2_M004,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3519_0387154323_03_WRI-L2_M004.png,4,1,M,M/3.1,"['M/3.1', 'M/2.1']"
+2398_1041078899_01_WRI-R1_M004,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2398_1041078899_01_WRI-R1_M004.png,4,0,M,Unknown,[]
+1874_1176232630_01_WRI-L2_M004,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1874_1176232630_01_WRI-L2_M004.png,4,1,M,M/3.1,['M/3.1']
+4020_1145454497_01_WRI-R2_M005,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4020_1145454497_01_WRI-R2_M005.png,5,1,M,M/3.1,"['M/3.1', 'M/2.1']"
+2901_0955360965_01_WRI-L2_F005,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2901_0955360965_01_WRI-L2_F005.png,5,1,F,M/2.1,['M/2.1']
+5516_0759437391_01_WRI-R2_M005,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5516_0759437391_01_WRI-R2_M005.png,5,1,M,M/2.1,['M/2.1']
+2599_0727336726_04_WRI-L2_F005,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2599_0727336726_04_WRI-L2_F005.png,5,1,F,M/3.1,"['M/3.1', '/4']"
+5634_0981805126_05_WRI-R1_M005,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5634_0981805126_05_WRI-R1_M005.png,5,1,M,M/3.1,['M/3.1']
+3815_0861909923_01_WRI-L1_F005,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3815_0861909923_01_WRI-L1_F005.png,5,1,F,M/3.1,['M/3.1']
+0953_1065712516_01_WRI-L1_F005,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0953_1065712516_01_WRI-L1_F005.png,5,1,F,M/2.1,['M/2.1']
+0250_1302610038_02_WRI-L2_M005,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0250_1302610038_02_WRI-L2_M005.png,5,1,M,M/2.1,['M/2.1']
+0141_0406811753_01_WRI-L2_M005,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0141_0406811753_01_WRI-L2_M005.png,5,0,M,Unknown,[]
+2903_1088912555_01_WRI-L2_M005,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2903_1088912555_01_WRI-L2_M005.png,5,1,M,M/2.1,['M/2.1']
+3549_0492106657_02_WRI-L1_F005,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3549_0492106657_02_WRI-L1_F005.png,5,1,F,M/3.1,"['M/3.1', 'M/2.1']"
+3028_0692382382_01_WRI-R1_M005,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3028_0692382382_01_WRI-R1_M005.png,5,1,M,M/2.1,['M/2.1']
+1327_0356731792_04_WRI-R1_F005,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1327_0356731792_04_WRI-R1_F005.png,5,1,F,E/2.1,"['E/2.1', 'M/2.1']"
+1232_0705405867_02_WRI-L1_M005,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1232_0705405867_02_WRI-L1_M005.png,5,1,M,M/2.1,['M/2.1']
+1327_0356731889_04_WRI-R2_F005,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1327_0356731889_04_WRI-R2_F005.png,5,1,F,E/2.1,"['E/2.1', 'M/2.1']"
+1025_0611219801_01_WRI-L2_M005,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1025_0611219801_01_WRI-L2_M005.png,5,1,M,M/3.1,['M/3.1']
+5976_0683709557_01_WRI-R1_M005,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5976_0683709557_01_WRI-R1_M005.png,5,1,M,M/2.1,['M/2.1']
+5584_0251407577_01_WRI-L1_M005,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5584_0251407577_01_WRI-L1_M005.png,5,0,M,Unknown,[]
+5865_0981303644_03_WRI-L2_F005,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5865_0981303644_03_WRI-L2_F005.png,5,1,F,M/3.1,"['M/3.1', 'M/2.1']"
+2935_0624270793_04_WRI-R1_F005,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2935_0624270793_04_WRI-R1_F005.png,5,1,F,M/3.1,['M/3.1']
+4598_1146028261_01_WRI-L1_M005,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/4598_1146028261_01_WRI-L1_M005.png,5,1,M,M/2.1,['M/2.1']
+5654_0798649402_01_WRI-L1_M005,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5654_0798649402_01_WRI-L1_M005.png,5,1,M,M/2.1,['M/2.1']
+1025_0611219722_01_WRI-L1_M005,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1025_0611219722_01_WRI-L1_M005.png,5,1,M,M/3.1,['M/3.1']
+4719_1118958625_03_WRI-R1_F005,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/4719_1118958625_03_WRI-R1_F005.png,5,1,F,M/3.1,"['M/3.1', 'M/2.1']"
+5027_0879155788_03_WRI-L2_F005,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5027_0879155788_03_WRI-L2_F005.png,5,1,F,/4,"['/4', 'E/2.1']"
+6019_0712334445_01_WRI-R1_M005,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/6019_0712334445_01_WRI-R1_M005.png,5,1,M,M/3.1,['M/3.1']
+2128_0934202128_02_WRI-L1_M005,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2128_0934202128_02_WRI-L1_M005.png,5,1,M,M/2.1,['M/2.1']
+4708_0685185156_02_WRI-L1_M005,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/4708_0685185156_02_WRI-L1_M005.png,5,1,M,M/2.1,['M/2.1']
+0476_0834388162_01_WRI-R1_F005,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0476_0834388162_01_WRI-R1_F005.png,5,1,F,M/2.1,['M/2.1']
+2935_0623657301_02_WRI-R1_F005,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2935_0623657301_02_WRI-R1_F005.png,5,1,F,M/3.1,['M/3.1']
+2369_1199118039_02_WRI-R1_F006,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2369_1199118039_02_WRI-R1_F006.png,6,1,F,M/2.1,['M/2.1']
+3794_0385503188_02_WRI-R2_M006,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3794_0385503188_02_WRI-R2_M006.png,6,1,M,M/3.1,['M/3.1']
+2405_0277100413_01_WRI-L2_F006,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2405_0277100413_01_WRI-L2_F006.png,6,1,F,M/2.1,['M/2.1']
+3833_0228504020_06_WRI-L2_F006,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3833_0228504020_06_WRI-L2_F006.png,6,1,F,M/3.1,"['M/3.1', 'M/2.1']"
+0605_0446147887_04_WRI-L2_F006,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0605_0446147887_04_WRI-L2_F006.png,6,1,F,M/3.1,"['M/3.1', 'M/2.1']"
+1654_0394931615_09_WRI-R1_M006,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1654_0394931615_09_WRI-R1_M006.png,6,1,M,M/3.1,['M/3.1']
+1383_0288696635_02_WRI-L1_M006,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1383_0288696635_02_WRI-L1_M006.png,6,1,M,M/3.1,['M/3.1']
+2871_1053210442_01_WRI-L1_M006,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2871_1053210442_01_WRI-L1_M006.png,6,1,M,M/3.1,"['M/3.1', 'M/2.1']"
+4124_0511240630_03_WRI-L2_F006,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4124_0511240630_03_WRI-L2_F006.png,6,1,F,M/3.1,"['M/3.1', 'M/2.1']"
+4232_0263523683_03_WRI-L2_F006,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4232_0263523683_03_WRI-L2_F006.png,6,1,F,M/3.1,"['M/3.1', 'M/2.1']"
+2050_0398975170_01_WRI-R2_M006,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2050_0398975170_01_WRI-R2_M006.png,6,1,M,M/3.1,"['M/3.1', 'M/2.1']"
+5267_0420857216_04_WRI-R1_F006,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5267_0420857216_04_WRI-R1_F006.png,6,1,F,M/3.1,"['M/3.1', 'M/2.1']"
+5849_1121512054_03_WRI-L1_M006,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5849_1121512054_03_WRI-L1_M006.png,6,1,M,M/3.1,"['M/3.1', 'M/2.1']"
+1311_0915044872_04_WRI-L2_M006,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1311_0915044872_04_WRI-L2_M006.png,6,1,M,/2,['/2']
+3507_0701936946_02_WRI-L1_F006,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3507_0701936946_02_WRI-L1_F006.png,6,1,F,M/2.1,['M/2.1']
+2677_1022205385_01_WRI-L1_F006,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2677_1022205385_01_WRI-L1_F006.png,6,1,F,M/2.1,['M/2.1']
+4429_1015482125_01_WRI-L1_M006,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4429_1015482125_01_WRI-L1_M006.png,6,1,M,M/3.1,['M/3.1']
+1659_0887325802_01_WRI-R1_F006,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1659_0887325802_01_WRI-R1_F006.png,6,1,F,E/2.1,"['E/2.1', 'M/2.1']"
+2570_0628059815_01_WRI-L1_M006,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2570_0628059815_01_WRI-L1_M006.png,6,1,M,M/3.1,"['M/3.1', 'M/2.1']"
+5436_0268750274_01_WRI-L1_F006,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5436_0268750274_01_WRI-L1_F006.png,6,0,F,Unknown,[]
+4429_1015964780_03_WRI-L2_M006,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4429_1015964780_03_WRI-L2_M006.png,6,1,M,M/3.1,['M/3.1']
+2050_0399577584_02_WRI-R2_M006,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2050_0399577584_02_WRI-R2_M006.png,6,1,M,M/3.1,"['M/3.1', 'M/2.1']"
+1892_0363203992_01_WRI-R2_F006,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1892_0363203992_01_WRI-R2_F006.png,6,0,F,Unknown,[]
+6002_0323047199_02_WRI-L2_F006,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/6002_0323047199_02_WRI-L2_F006.png,6,1,F,M/2.1,['M/2.1']
+2890_1078945356_04_WRI-L2_M006,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2890_1078945356_04_WRI-L2_M006.png,6,1,M,M/3.1,"['M/3.1', 'M/2.1']"
+3302_0475362202_01_WRI-L1_F006,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3302_0475362202_01_WRI-L1_F006.png,6,1,F,M/2.1,['M/2.1']
+0768_0779478801_01_WRI-R2_F006,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0768_0779478801_01_WRI-R2_F006.png,6,0,F,Unknown,[]
+5197_0548363411_05_WRI-L1_M006,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5197_0548363411_05_WRI-L1_M006.png,6,1,M,M/3.1,['M/3.1']
+3185_0703064987_01_WRI-R2_M006,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3185_0703064987_01_WRI-R2_M006.png,6,1,M,M/2.1,['M/2.1']
+0399_0640929675_01_WRI-L2_M006,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0399_0640929675_01_WRI-L2_M006.png,6,1,M,M/2.1,['M/2.1']
+2113_0500130375_01_WRI-L2_M007,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2113_0500130375_01_WRI-L2_M007.png,7,0,M,Unknown,[]
+5574_0456451538_01_WRI-R2_M007,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5574_0456451538_01_WRI-R2_M007.png,7,0,M,Unknown,[]
+4970_0732594212_01_WRI-L2_F007,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/4970_0732594212_01_WRI-L2_F007.png,7,1,F,M/2.1,['M/2.1']
+1429_0949648473_02_WRI-L2_M007,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1429_0949648473_02_WRI-L2_M007.png,7,1,M,M/3.1,['M/3.1']
+6031_0658597994_02_WRI-R1_M007,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/6031_0658597994_02_WRI-R1_M007.png,7,1,M,/2,['/2']
+2479_0610815657_01_WRI-R1_F007,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2479_0610815657_01_WRI-R1_F007.png,7,1,F,M/3.1,['M/3.1']
+4527_0938569404_01_WRI-L1_F007,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/4527_0938569404_01_WRI-L1_F007.png,7,0,F,Unknown,[]
+5177_0272236439_02_WRI-R2_F007,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5177_0272236439_02_WRI-R2_F007.png,7,1,F,M/3.1,"['M/3.1', '/7']"
+0032_1146493016_02_WRI-R2_M007,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0032_1146493016_02_WRI-R2_M007.png,7,1,M,M/2.1,['M/2.1']
+1983_0801655181_01_WRI-R1_F007,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1983_0801655181_01_WRI-R1_F007.png,7,0,F,Unknown,[]
+5846_0361729756_01_WRI-R1_F007,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5846_0361729756_01_WRI-R1_F007.png,7,1,F,M/2.1,['M/2.1']
+1694_0577181564_01_WRI-R2_M007,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1694_0577181564_01_WRI-R2_M007.png,7,1,M,M/3.1,['M/3.1']
+0560_0426749638_09_WRI-L2_M007,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0560_0426749638_09_WRI-L2_M007.png,7,1,M,M/3.1,['M/3.1']
+2809_0724555490_01_WRI-L2_M007,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2809_0724555490_01_WRI-L2_M007.png,7,1,M,M/3.1,['M/3.1']
+2167_0993353264_01_WRI-R2_M007,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2167_0993353264_01_WRI-R2_M007.png,7,0,M,Unknown,[]
+2963_0252471378_03_WRI-R2_M007,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2963_0252471378_03_WRI-R2_M007.png,7,1,M,M/3.1,['M/3.1']
+2199_0663140199_01_WRI-R1_F007,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2199_0663140199_01_WRI-R1_F007.png,7,1,F,M/3.1,['M/3.1']
+1750_1176847530_02_WRI-R1_M007,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1750_1176847530_02_WRI-R1_M007.png,7,1,M,M/3.1,"['M/3.1', 'M/2.1']"
+0896_0877848422_04_WRI-R2_M007,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0896_0877848422_04_WRI-R2_M007.png,7,1,M,/2,['/2']
+2803_1198459841_01_WRI-R1_M007,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2803_1198459841_01_WRI-R1_M007.png,7,0,M,Unknown,[]
+2813_1023033766_01_WRI-R2_F007,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2813_1023033766_01_WRI-R2_F007.png,7,1,F,E/2.1,['E/2.1']
+4358_0789138409_01_WRI-L1_M007,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4358_0789138409_01_WRI-L1_M007.png,7,1,M,M/3.1,['M/3.1']
+2085_0742089818_01_WRI-L1_F007,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2085_0742089818_01_WRI-L1_F007.png,7,0,F,Unknown,[]
+0532_0610158560_01_WRI-L2_F007,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0532_0610158560_01_WRI-L2_F007.png,7,1,F,M/2.1,['M/2.1']
+0887_0592085016_02_WRI-L2_F007,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0887_0592085016_02_WRI-L2_F007.png,7,1,F,M/2.1,['M/2.1']
+2330_0494347523_01_WRI-L2_M007,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2330_0494347523_01_WRI-L2_M007.png,7,1,M,M/3.1,['M/3.1']
+0177_0389791564_02_WRI-R2_M007,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0177_0389791564_02_WRI-R2_M007.png,7,1,M,M/3.1,['M/3.1']
+3604_1196032936_03_WRI-L2_F007,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3604_1196032936_03_WRI-L2_F007.png,7,0,F,Unknown,[]
+0686_0544289077_02_WRI-R1_M007,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0686_0544289077_02_WRI-R1_M007.png,7,1,M,M/3.1,"['M/3.1', 'M/2.1']"
+3321_1044592475_03_WRI-R2_M007,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3321_1044592475_03_WRI-R2_M007.png,7,1,M,M/3.1,['M/3.1']
+2127_0736102597_01_WRI-R2_M008,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2127_0736102597_01_WRI-R2_M008.png,8,0,M,Unknown,[]
+1086_0624688327_01_WRI-R1_F008,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1086_0624688327_01_WRI-R1_F008.png,8,0,F,Unknown,[]
+3034_0563030226_01_WRI-L1_F008,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3034_0563030226_01_WRI-L1_F008.png,8,1,F,M/2.1,['M/2.1']
+1371_0912982900_01_WRI-R2_F008,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1371_0912982900_01_WRI-R2_F008.png,8,0,F,Unknown,[]
+4185_0989297613_02_WRI-R1_F008,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4185_0989297613_02_WRI-R1_F008.png,8,1,F,M/3.1,"['M/3.1', 'M/2.1']"
+1485_0720794153_01_WRI-R1_F008,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1485_0720794153_01_WRI-R1_F008.png,8,1,F,M/3.1,"['M/3.1', 'M/2.1']"
+5909_0686555989_01_WRI-L1_F008,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5909_0686555989_01_WRI-L1_F008.png,8,0,F,M/2.1,['M/2.1']
+1569_0662725646_04_WRI-L1_M008,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1569_0662725646_04_WRI-L1_M008.png,8,1,M,M/3.1,['M/3.1']
+4073_1250044201_03_WRI-L1_F008,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4073_1250044201_03_WRI-L1_F008.png,8,0,F,Unknown,[]
+0733_1191678400_01_WRI-L1_F008,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0733_1191678400_01_WRI-L1_F008.png,8,1,F,M/2.1,['M/2.1']
+3247_1035830260_01_WRI-R2_F008,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3247_1035830260_01_WRI-R2_F008.png,8,1,F,M/3.1,['M/3.1']
+5533_1055512389_02_WRI-L2_F008,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5533_1055512389_02_WRI-L2_F008.png,8,1,F,M/2.1,['M/2.1']
+2269_0904351126_01_WRI-L1_M008,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2269_0904351126_01_WRI-L1_M008.png,8,1,M,M/2.1,['M/2.1']
+2193_0566736537_04_WRI-R1_M008,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2193_0566736537_04_WRI-R1_M008.png,8,1,M,M/3.1,['M/3.1']
+5616_0985971941_01_WRI-L2_F008,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5616_0985971941_01_WRI-L2_F008.png,8,0,F,Unknown,[]
+0144_0934034785_01_WRI-R2_M008,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0144_0934034785_01_WRI-R2_M008.png,8,1,M,E/2.1,['E/2.1']
+5361_0747497844_03_WRI-R2_F008,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5361_0747497844_03_WRI-R2_F008.png,8,1,F,M/2.1,['M/2.1']
+2522_1306612089_03_WRI-L2_M008,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2522_1306612089_03_WRI-L2_M008.png,8,1,M,M/2.1,['M/2.1']
+1077_0801377990_01_WRI-R1_F008,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1077_0801377990_01_WRI-R1_F008.png,8,1,F,M/2.1,['M/2.1']
+2873_0877431000_02_WRI-R1_M008,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2873_0877431000_02_WRI-R1_M008.png,8,1,M,/2,"['/2', 'M/2.1']"
+1584_0685907618_02_WRI-R2_M008,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1584_0685907618_02_WRI-R2_M008.png,8,1,M,E/2.1,['E/2.1']
+1651_0877306658_05_WRI-R1_F008,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1651_0877306658_05_WRI-R1_F008.png,8,1,F,M/3.1,"['M/3.1', 'M/2.1']"
+3760_0396658749_01_WRI-L1_M008,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3760_0396658749_01_WRI-L1_M008.png,8,1,M,M/3.1,['M/3.1']
+1485_0721270229_02_WRI-R2_F008,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1485_0721270229_02_WRI-R2_F008.png,8,1,F,M/3.1,"['M/3.1', 'M/2.1']"
+0522_0599821596_02_WRI-R1_M008,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0522_0599821596_02_WRI-R1_M008.png,8,1,M,M/3.1,['M/3.1']
+3123_0390869195_02_WRI-R1_M008,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3123_0390869195_02_WRI-R1_M008.png,8,1,M,M/3.1,['M/3.1']
+2447_0678169570_02_WRI-L1_F008,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2447_0678169570_02_WRI-L1_F008.png,8,1,F,M/2.1,['M/2.1']
+1657_0820510075_02_WRI-L2_F008,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1657_0820510075_02_WRI-L2_F008.png,8,1,F,M/3.1,"['M/3.1', 'M/2.1']"
+1753_1053357916_01_WRI-L1_M008,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1753_1053357916_01_WRI-L1_M008.png,8,0,M,Unknown,[]
+5154_1244250303_04_WRI-L1_F008,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5154_1244250303_04_WRI-L1_F008.png,8,1,F,M/2.1,['M/2.1']
+2429_0841447518_04_WRI-L2_M009,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2429_0841447518_04_WRI-L2_M009.png,9,1,M,E/2.1,['E/2.1']
+1859_0522429882_01_WRI-R2_F009,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1859_0522429882_01_WRI-R2_F009.png,9,1,F,M/2.1,['M/2.1']
+1505_0521098943_01_WRI-L2_F009,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1505_0521098943_01_WRI-L2_F009.png,9,1,F,M/2.1,['M/2.1']
+4067_0634632833_01_WRI-L2_F009,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4067_0634632833_01_WRI-L2_F009.png,9,0,F,Unknown,[]
+2266_1210899322_03_WRI-L1_M009,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2266_1210899322_03_WRI-L1_M009.png,9,1,M,M/3.1,"['M/3.1', 'M/2.1']"
+3199_0534430955_01_WRI-R2_M009,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3199_0534430955_01_WRI-R2_M009.png,9,0,M,Unknown,[]
+4726_0966485124_02_WRI-R2_F009,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/4726_0966485124_02_WRI-R2_F009.png,9,1,F,M/3.1,"['M/3.1', 'M/2.1']"
+3197_0322733706_01_WRI-L2_F009,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3197_0322733706_01_WRI-L2_F009.png,9,0,F,Unknown,[]
+1722_0708622349_01_WRI-L1_F009,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1722_0708622349_01_WRI-L1_F009.png,9,0,F,Unknown,[]
+0789_0634809567_03_WRI-R2_M009,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0789_0634809567_03_WRI-R2_M009.png,9,1,M,Unknown,[]
+5844_1187098380_04_WRI-R2_M009,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5844_1187098380_04_WRI-R2_M009.png,9,1,M,M/3.1,"['M/3.1', 'M/2.1']"
+5593_0401147474_01_WRI-L1_F009,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5593_0401147474_01_WRI-L1_F009.png,9,0,F,Unknown,[]
+4096_0682792687_01_WRI-L2_F009,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4096_0682792687_01_WRI-L2_F009.png,9,0,F,Unknown,[]
+0064_0245477867_01_WRI-L2_F009,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0064_0245477867_01_WRI-L2_F009.png,9,1,F,M/3.1,['M/3.1']
+3072_0716808240_01_WRI-L2_F009,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3072_0716808240_01_WRI-L2_F009.png,9,1,F,M/2.1,['M/2.1']
+1443_0982140909_04_WRI-L2_M009,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1443_0982140909_04_WRI-L2_M009.png,9,1,M,M/3.1,"['M/3.1', 'M/2.1']"
+5058_1169606127_01_WRI-L1_M009,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5058_1169606127_01_WRI-L1_M009.png,9,1,M,E/2.1,"['E/2.1', 'M/2.1']"
+1993_0548434682_03_WRI-R2_F009,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1993_0548434682_03_WRI-R2_F009.png,9,1,F,M/3.1,['M/3.1']
+1443_0982140839_04_WRI-L1_M009,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1443_0982140839_04_WRI-L1_M009.png,9,1,M,M/3.1,"['M/3.1', 'M/2.1']"
+4075_1081342515_01_WRI-L1_M009,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4075_1081342515_01_WRI-L1_M009.png,9,1,M,M/3.1,['M/3.1']
+3021_0773149499_01_WRI-R2_M009,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3021_0773149499_01_WRI-R2_M009.png,9,0,M,Unknown,[]
+3029_0871058802_03_WRI-R1_F009,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3029_0871058802_03_WRI-R1_F009.png,9,1,F,M/3.1,['M/3.1']
+3702_1008625488_04_WRI-L2_M009,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3702_1008625488_04_WRI-L2_M009.png,9,1,M,M/3.1,"['M/3.1', 'M/2.1']"
+1947_1129186393_01_WRI-L1_M009,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1947_1129186393_01_WRI-L1_M009.png,9,1,M,M/3.1,['M/3.1']
+1919_0245508382_04_WRI-L2_F009,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1919_0245508382_04_WRI-L2_F009.png,9,1,F,M/2.1,['M/2.1']
+2027_0509727370_01_WRI-R1_F009,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2027_0509727370_01_WRI-R1_F009.png,9,0,F,Unknown,[]
+2676_0373323278_01_WRI-L1_F009,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2676_0373323278_01_WRI-L1_F009.png,9,1,F,M/2.1,['M/2.1']
+0075_1199089491_01_WRI-R1_F009,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0075_1199089491_01_WRI-R1_F009.png,9,0,F,Unknown,[]
+3737_0660158456_01_WRI-L2_F009,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3737_0660158456_01_WRI-L2_F009.png,9,0,F,Unknown,[]
+0903_0741114190_01_WRI-R2_M009,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0903_0741114190_01_WRI-R2_M009.png,9,0,M,Unknown,[]
+2203_0744630710_03_WRI-R1_F010,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2203_0744630710_03_WRI-R1_F010.png,10,1,F,/2,['/2']
+1042_0547077352_02_WRI-L1_F010,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1042_0547077352_02_WRI-L1_F010.png,10,1,F,M/2.1,['M/2.1']
+1175_0326307235_05_WRI-L1_M010,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1175_0326307235_05_WRI-L1_M010.png,10,1,M,M/3.1,"['M/3.1', 'M/2.1']"
+1950_0701728970_01_WRI-L1_F010,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1950_0701728970_01_WRI-L1_F010.png,10,1,F,M/2.1,['M/2.1']
+5701_0910516313_03_WRI-R1_F010,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5701_0910516313_03_WRI-R1_F010.png,10,1,F,E/2.1,['E/2.1']
+1771_0367381611_02_WRI-R2_F010,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1771_0367381611_02_WRI-R2_F010.png,10,1,F,M/3.1,"['M/3.1', 'M/2.1', '/7']"
+5701_0909307380_02_WRI-R2_F010,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5701_0909307380_02_WRI-R2_F010.png,10,1,F,E/2.1,['E/2.1']
+0965_1044025903_01_WRI-L2_F010,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0965_1044025903_01_WRI-L2_F010.png,10,0,F,Unknown,[]
+4321_1176702110_01_WRI-R1_M010,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4321_1176702110_01_WRI-R1_M010.png,10,0,M,Unknown,[]
+6041_0312081993_02_WRI-R1_M010,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/6041_0312081993_02_WRI-R1_M010.png,10,0,M,M/2.1,['M/2.1']
+1761_1150658498_01_WRI-R1_F010,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1761_1150658498_01_WRI-R1_F010.png,10,0,F,Unknown,[]
+1503_0195575983_01_WRI-L1_F010,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1503_0195575983_01_WRI-L1_F010.png,10,1,F,M/2.1,['M/2.1']
+4672_1042963085_08_WRI-L2_F010,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/4672_1042963085_08_WRI-L2_F010.png,10,1,F,M/3.1,"['M/3.1', 'M/2.1']"
+0717_0943009633_01_WRI-L2_F010,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0717_0943009633_01_WRI-L2_F010.png,10,0,F,Unknown,[]
+1205_0804899090_01_WRI-L1_F010,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1205_0804899090_01_WRI-L1_F010.png,10,1,F,M/2.1,['M/2.1']
+4574_0329981184_01_WRI-L2_F010,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/4574_0329981184_01_WRI-L2_F010.png,10,0,F,Unknown,[]
+2654_0466252764_01_WRI-L1_F010,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2654_0466252764_01_WRI-L1_F010.png,10,0,F,Unknown,[]
+2713_0755227810_02_WRI-R2_M010,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2713_0755227810_02_WRI-R2_M010.png,10,1,M,M/3.1,"['M/3.1', 'M/2.1', '/7']"
+1451_0896740586_01_WRI-R1_F010,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1451_0896740586_01_WRI-R1_F010.png,10,1,F,/2,['/2']
+2363_0844094822_02_WRI-R1_F010,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2363_0844094822_02_WRI-R1_F010.png,10,1,F,M/3.1,"['M/3.1', 'M/2.1', '/7']"
+2976_1206893881_01_WRI-L1_F010,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2976_1206893881_01_WRI-L1_F010.png,10,1,F,M/2.1,['M/2.1']
+1696_0453029320_01_WRI-L1_F010,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1696_0453029320_01_WRI-L1_F010.png,10,0,F,Unknown,[]
+2577_1184842556_04_WRI-R2_F010,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2577_1184842556_04_WRI-R2_F010.png,10,1,F,M/3.1,['M/3.1']
+5054_1148719074_01_WRI-R1_M010,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5054_1148719074_01_WRI-R1_M010.png,10,1,M,M/3.1,['M/3.1']
+5854_1092944540_01_WRI-R1_F010,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5854_1092944540_01_WRI-R1_F010.png,10,0,F,Unknown,[]
+5642_0299347350_02_WRI-R2_M010,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5642_0299347350_02_WRI-R2_M010.png,10,1,M,E/2.1,['E/2.1']
+4052_0526298770_01_WRI-L2_F010,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4052_0526298770_01_WRI-L2_F010.png,10,0,F,Unknown,[]
+2520_0522582044_05_WRI-L2_F010,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2520_0522582044_05_WRI-L2_F010.png,10,1,F,M/3.1,"['M/3.1', 'M/2.1']"
+1501_0949583368_02_WRI-L2_M010,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1501_0949583368_02_WRI-L2_M010.png,10,1,M,M/3.1,['M/3.1']
+3097_0425213810_01_WRI-R1_F010,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3097_0425213810_01_WRI-R1_F010.png,10,0,F,Unknown,[]
+4330_0669424743_01_WRI-L2_M011,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4330_0669424743_01_WRI-L2_M011.png,11,1,M,M/3.1,['M/3.1']
+3746_1154133542_01_WRI-L2_M011,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3746_1154133542_01_WRI-L2_M011.png,11,1,M,M/2.1,['M/2.1']
+5631_1103571036_01_WRI-R1_F011,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5631_1103571036_01_WRI-R1_F011.png,11,1,F,M/3.1,"['M/3.1', '/7']"
+1635_0835556237_01_WRI-L2_F011,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1635_0835556237_01_WRI-L2_F011.png,11,1,F,M/2.1,['M/2.1']
+4159_0508799981_01_WRI-L2_F011,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4159_0508799981_01_WRI-L2_F011.png,11,1,F,M/2.1,['M/2.1']
+0885_0909258838_02_WRI-R2_M011,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0885_0909258838_02_WRI-R2_M011.png,11,1,M,M/3.1,['M/3.1']
+1848_1080617068_04_WRI-R1_F011,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1848_1080617068_04_WRI-R1_F011.png,11,1,F,E/2.1,"['E/2.1', 'M/2.1', '/7']"
+3271_0492840640_02_WRI-R1_F011,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3271_0492840640_02_WRI-R1_F011.png,11,0,F,Unknown,[]
+4759_0962737551_01_WRI-L2_M011,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/4759_0962737551_01_WRI-L2_M011.png,11,0,M,Unknown,[]
+5024_0988247598_01_WRI-L1_F011,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5024_0988247598_01_WRI-L1_F011.png,11,1,F,M/2.1,['M/2.1']
+0063_0564895777_01_WRI-R2_F011,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0063_0564895777_01_WRI-R2_F011.png,11,1,F,M/3.1,['M/3.1']
+4180_0671997063_01_WRI-L2_F011,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4180_0671997063_01_WRI-L2_F011.png,11,1,F,M/2.1,['M/2.1']
+0885_0911236374_03_WRI-R1_M011,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0885_0911236374_03_WRI-R1_M011.png,11,1,M,M/3.1,['M/3.1']
+5631_1105378402_02_WRI-R1_F011,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5631_1105378402_02_WRI-R1_F011.png,11,1,F,M/3.1,"['M/3.1', '/7']"
+3085_0761776349_01_WRI-R2_F011,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3085_0761776349_01_WRI-R2_F011.png,11,1,F,M/2.1,"['M/2.1', '/7']"
+4091_0319705231_02_WRI-R2_M011,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4091_0319705231_02_WRI-R2_M011.png,11,0,M,Unknown,[]
+4390_1123897110_01_WRI-L1_M011,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4390_1123897110_01_WRI-L1_M011.png,11,0,M,E/2.1,['E/2.1']
+1188_0559296573_02_WRI-L1_M011,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1188_0559296573_02_WRI-L1_M011.png,11,0,M,Unknown,[]
+5008_0627530091_01_WRI-L2_M011,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5008_0627530091_01_WRI-L2_M011.png,11,0,M,Unknown,[]
+3024_1078602547_02_WRI-R1_M011,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3024_1078602547_02_WRI-R1_M011.png,11,1,M,M/2.1,['M/2.1']
+4159_0508799956_01_WRI-L1_F011,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4159_0508799956_01_WRI-L1_F011.png,11,1,F,M/2.1,['M/2.1']
+4148_0328860278_01_WRI-L1_F011,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4148_0328860278_01_WRI-L1_F011.png,11,0,F,Unknown,[]
+3511_1047990628_03_WRI-L2_M011,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3511_1047990628_03_WRI-L2_M011.png,11,1,M,M/3.1,['M/3.1']
+4810_0682609416_01_WRI-L1_M011,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/4810_0682609416_01_WRI-L1_M011.png,11,1,M,M/2.1,['M/2.1']
+1596_1008011371_01_WRI-R1_F011,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1596_1008011371_01_WRI-R1_F011.png,11,0,F,M/2.1,['M/2.1']
+5186_0569901860_01_WRI-L2_M011,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5186_0569901860_01_WRI-L2_M011.png,11,0,M,E/2.1,"['E/2.1', '/7']"
+0460_0480587009_02_WRI-L1_M011,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0460_0480587009_02_WRI-L1_M011.png,11,0,M,Unknown,[]
+2017_0849583241_01_WRI-R2_M011,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2017_0849583241_01_WRI-R2_M011.png,11,1,M,M/3.1,['M/3.1']
+4610_0628789435_07_WRI-L1_M011,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/4610_0628789435_07_WRI-L1_M011.png,11,1,M,M/3.1,"['M/3.1', '/7']"
+2674_0280646658_03_WRI-L1_M011,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2674_0280646658_03_WRI-L1_M011.png,11,1,M,M/3.1,"['M/3.1', '/7']"
+1263_0952914152_01_WRI-R1_F012,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1263_0952914152_01_WRI-R1_F012.png,12,1,F,M/3.1,"['M/3.1', '/7']"
+1700_1170739624_08_WRI-R2_M012,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1700_1170739624_08_WRI-R2_M012.png,12,1,M,M/3.1,"['M/3.1', '/7']"
+4435_0479466834_03_WRI-R2_M012,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4435_0479466834_03_WRI-R2_M012.png,12,1,M,E/2.1,"['E/2.1', 'M/2.1']"
+2789_0209885217_02_WRI-R2_M012,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2789_0209885217_02_WRI-R2_M012.png,12,1,M,M/3.1,"['M/3.1', '/1']"
+3075_0637681662_01_WRI-R1_M012,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3075_0637681662_01_WRI-R1_M012.png,12,1,M,M/2.1,['M/2.1']
+1950_0759358080_05_WRI-R2_F012,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1950_0759358080_05_WRI-R2_F012.png,12,0,F,Unknown,[]
+6028_0991211491_01_WRI-L1_M012,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/6028_0991211491_01_WRI-L1_M012.png,12,0,M,Unknown,[]
+0477_0623210620_05_WRI-L1_M012,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0477_0623210620_05_WRI-L1_M012.png,12,1,M,M/3.1,"['M/3.1', '/7']"
+2241_1074115078_02_WRI-R2_M012,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2241_1074115078_02_WRI-R2_M012.png,12,1,M,E/2.1,"['E/2.1', '/7']"
+1631_0460749276_02_WRI-L2_M012,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1631_0460749276_02_WRI-L2_M012.png,12,1,M,M/3.1,['M/3.1']
+4746_1068181882_02_WRI-L2_M012,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/4746_1068181882_02_WRI-L2_M012.png,12,1,M,M/2.1,"['M/2.1', '/7']"
+0906_0406017857_01_WRI-L1_F012,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0906_0406017857_01_WRI-L1_F012.png,12,0,F,M/2.1,['M/2.1']
+3081_1008980274_05_WRI-L2_M012,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3081_1008980274_05_WRI-L2_M012.png,12,1,M,M/3.1,"['M/3.1', '/7']"
+1398_1011681844_02_WRI-L2_F012,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1398_1011681844_02_WRI-L2_F012.png,12,1,F,M/2.1,['M/2.1']
+2186_1198030011_02_WRI-R2_M012,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2186_1198030011_02_WRI-R2_M012.png,12,0,M,Unknown,[]
+4870_0404298790_01_WRI-R1_M012,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/4870_0404298790_01_WRI-R1_M012.png,12,0,M,Unknown,[]
+2711_0410931326_01_WRI-R1_F012,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2711_0410931326_01_WRI-R1_F012.png,12,0,F,Unknown,[]
+0093_0598311532_03_WRI-R2_M012,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0093_0598311532_03_WRI-R2_M012.png,12,1,M,M/3.1,['M/3.1']
+4692_0833864661_04_WRI-R2_M012,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/4692_0833864661_04_WRI-R2_M012.png,12,1,M,M/3.1,['M/3.1']
+2197_0679813983_02_WRI-L1_F012,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2197_0679813983_02_WRI-L1_F012.png,12,1,F,M/3.1,['M/3.1']
+3595_1105629226_03_WRI-L2_M012,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3595_1105629226_03_WRI-L2_M012.png,12,1,M,M/2.1,['M/2.1']
+1464_0492914763_03_WRI-R2_M012,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1464_0492914763_03_WRI-R2_M012.png,12,1,M,M/3.1,['M/3.1']
+0092_0773048270_01_WRI-L1_M012,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0092_0773048270_01_WRI-L1_M012.png,12,0,M,M/2.1,['M/2.1']
+4692_0832317870_02_WRI-R1_M012,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/4692_0832317870_02_WRI-R1_M012.png,12,1,M,M/3.1,['M/3.1']
+0022_0393695654_01_WRI-L2_M012,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0022_0393695654_01_WRI-L2_M012.png,12,1,M,M/2.1,['M/2.1']
+2073_0457616883_01_WRI-R2_M012,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2073_0457616883_01_WRI-R2_M012.png,12,0,M,Unknown,[]
+1629_0932740706_02_WRI-L1_F012,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1629_0932740706_02_WRI-L1_F012.png,12,1,F,M/3.1,"['M/3.1', '/7']"
+2920_1042668399_05_WRI-R1_M012,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2920_1042668399_05_WRI-R1_M012.png,12,1,M,M/3.1,"['M/3.1', '/7']"
+5760_1232476544_04_WRI-L1_F012,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5760_1232476544_04_WRI-L1_F012.png,12,1,F,M/3.1,"['M/3.1', '/7']"
+3315_0353353651_01_WRI-R2_M012,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3315_0353353651_01_WRI-R2_M012.png,12,1,M,M/2.1,['M/2.1']
+4907_0502852127_01_WRI-R2_M013,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/4907_0502852127_01_WRI-R2_M013.png,13,0,M,Unknown,[]
+2697_1076352663_02_WRI-L1_F013,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2697_1076352663_02_WRI-L1_F013.png,13,1,F,M/2.1,['M/2.1']
+1788_1179091053_01_WRI-R1_M013,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1788_1179091053_01_WRI-R1_M013.png,13,0,M,M/2.1,['M/2.1']
+0042_0760625600_01_WRI-R2_M013,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0042_0760625600_01_WRI-R2_M013.png,13,1,M,M/3.1,['M/3.1']
+2490_0339554455_01_WRI-L1_F013,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2490_0339554455_01_WRI-L1_F013.png,13,0,F,Unknown,[]
+4418_1177854151_03_WRI-R1_M013,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4418_1177854151_03_WRI-R1_M013.png,13,1,M,M/2.1,['M/2.1']
+4293_0201263094_05_WRI-L2_M013,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4293_0201263094_05_WRI-L2_M013.png,13,1,M,M/3.1,"['M/3.1', '/7']"
+0748_0422278263_01_WRI-L2_M013,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0748_0422278263_01_WRI-L2_M013.png,13,1,M,M/2.1,['M/2.1']
+2636_1123939940_06_WRI-L2_M013,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2636_1123939940_06_WRI-L2_M013.png,13,1,M,M/2.1,"['M/2.1', '/7']"
+5716_0700522966_01_WRI-L2_M013,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5716_0700522966_01_WRI-L2_M013.png,13,0,M,Unknown,[]
+2451_1082066776_05_WRI-L2_M013,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2451_1082066776_05_WRI-L2_M013.png,13,1,M,M/2.1,['M/2.1']
+1831_0699029796_01_WRI-R2_F013,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1831_0699029796_01_WRI-R2_F013.png,13,0,F,Unknown,[]
+2837_0350129746_03_WRI-R2_M013,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2837_0350129746_03_WRI-R2_M013.png,13,1,M,E/2.1,"['E/2.1', '/7']"
+4050_0152902358_01_WRI-L2_M013,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4050_0152902358_01_WRI-L2_M013.png,13,0,M,Unknown,[]
+2060_0798651286_01_WRI-L1_F013,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2060_0798651286_01_WRI-L1_F013.png,13,0,F,Unknown,[]
+3458_0854730060_01_WRI-R1_M013,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3458_0854730060_01_WRI-R1_M013.png,13,1,M,M/3.1,"['M/3.1', '/7']"
+3841_1073401466_03_WRI-L2_M013,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3841_1073401466_03_WRI-L2_M013.png,13,1,M,M/3.1,"['M/3.1', '/7']"
+1009_1044044173_01_WRI-R1_M013,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1009_1044044173_01_WRI-R1_M013.png,13,1,M,M/3.1,"['M/3.1', '/7']"
+2125_0858918332_02_WRI-R1_M013,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2125_0858918332_02_WRI-R1_M013.png,13,0,M,E/2.1,"['E/2.1', '/7']"
+0370_0378843659_01_WRI-R1_F013,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0370_0378843659_01_WRI-R1_F013.png,13,0,F,Unknown,[]
+2134_1015019295_01_WRI-L1_F013,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2134_1015019295_01_WRI-L1_F013.png,13,0,F,Unknown,[]
+5076_0693847262_01_WRI-R2_M013,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5076_0693847262_01_WRI-R2_M013.png,13,1,M,M/3.1,"['M/3.1', '/7']"
+4387_0687173518_01_WRI-L1_M013,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4387_0687173518_01_WRI-L1_M013.png,13,0,M,/1,['/1']
+0190_0856110998_03_WRI-R1_M013,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0190_0856110998_03_WRI-R1_M013.png,13,1,M,M/3.1,['M/3.1']
+5298_0975870260_04_WRI-R2_M013,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5298_0975870260_04_WRI-R2_M013.png,13,1,M,M/3.1,"['M/3.1', '/7']"
+0190_0856111064_04_WRI-R2_M013,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0190_0856111064_04_WRI-R2_M013.png,13,1,M,M/3.1,['M/3.1']
+2597_0392313579_01_WRI-R2_F013,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2597_0392313579_01_WRI-R2_F013.png,13,0,F,Unknown,[]
+3650_0714882537_01_WRI-L1_M013,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3650_0714882537_01_WRI-L1_M013.png,13,0,M,Unknown,[]
+4794_0938435132_01_WRI-L1_F013,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/4794_0938435132_01_WRI-L1_F013.png,13,0,F,M/2.1,['M/2.1']
+1325_1131481256_03_WRI-R1_M013,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1325_1131481256_03_WRI-R1_M013.png,13,1,M,M/3.1,['M/3.1']
+1233_0409552004_03_WRI-R1_M014,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1233_0409552004_03_WRI-R1_M014.png,14,1,M,M/3.1,"['M/3.1', '/7']"
+5475_0816608676_01_WRI-R1_M014,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5475_0816608676_01_WRI-R1_M014.png,14,0,M,Unknown,[]
+4488_0418696062_02_WRI-L1_M014,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4488_0418696062_02_WRI-L1_M014.png,14,1,M,M/3.1,"['M/3.1', 'M/2.1']"
+2608_0936392593_01_WRI-L2_M014,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2608_0936392593_01_WRI-L2_M014.png,14,1,M,M/2.1,['M/2.1']
+2420_1046177703_02_WRI-L1_M014,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2420_1046177703_02_WRI-L1_M014.png,14,1,M,E/2.1,"['E/2.1', '/7']"
+5735_1119544699_01_WRI-R2_M014,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5735_1119544699_01_WRI-R2_M014.png,14,0,M,Unknown,[]
+5384_0732408796_01_WRI-L2_F014,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5384_0732408796_01_WRI-L2_F014.png,14,0,F,Unknown,[]
+3705_0609602535_01_WRI-L2_M014,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3705_0609602535_01_WRI-L2_M014.png,14,1,M,M/3.1,"['M/3.1', '/7']"
+5413_0529492514_02_WRI-L2_M014,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5413_0529492514_02_WRI-L2_M014.png,14,1,M,M/2.1,['M/2.1']
+3147_0901636425_02_WRI-L1_M014,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3147_0901636425_02_WRI-L1_M014.png,14,0,M,E/2.1,['E/2.1']
+4137_1035337616_02_WRI-R2_M014,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4137_1035337616_02_WRI-R2_M014.png,14,1,M,M/3.1,"['M/3.1', '/7']"
+5002_0714135068_01_WRI-R2_M014,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5002_0714135068_01_WRI-R2_M014.png,14,0,M,Unknown,[]
+0022_0473957122_03_WRI-R2_M014,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0022_0473957122_03_WRI-R2_M014.png,14,0,M,Unknown,[]
+3147_0902241574_03_WRI-L1_M014,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3147_0902241574_03_WRI-L1_M014.png,14,0,M,E/2.1,['E/2.1']
+2456_0839298124_01_WRI-L2_M014,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2456_0839298124_01_WRI-L2_M014.png,14,0,M,Unknown,[]
+5062_0499285019_02_WRI-L2_M014,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5062_0499285019_02_WRI-L2_M014.png,14,0,M,Unknown,[]
+3253_0640746468_01_WRI-L2_F014,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3253_0640746468_01_WRI-L2_F014.png,14,1,F,M/2.1,['M/2.1']
+5586_0441697515_01_WRI-L1_F014,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5586_0441697515_01_WRI-L1_F014.png,14,0,F,Unknown,[]
+3999_0856720800_01_WRI-R1_M014,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3999_0856720800_01_WRI-R1_M014.png,14,0,M,Unknown,[]
+2420_1046172392_01_WRI-L2_M014,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2420_1046172392_01_WRI-L2_M014.png,14,1,M,E/2.1,"['E/2.1', '/7']"
+0886_0573838781_01_WRI-R2_F014,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0886_0573838781_01_WRI-R2_F014.png,14,0,F,Unknown,[]
+3999_0856720919_01_WRI-L2_M014,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3999_0856720919_01_WRI-L2_M014.png,14,1,M,M/3.1,['M/3.1']
+4513_0949909703_01_WRI-L1_M014,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/4513_0949909703_01_WRI-L1_M014.png,14,1,M,M/3.1,"['M/3.1', '/7']"
+4465_0416575331_01_WRI-L1_F014,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4465_0416575331_01_WRI-L1_F014.png,14,0,F,Unknown,[]
+0611_0472593904_04_WRI-L2_F014,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0611_0472593904_04_WRI-L2_F014.png,14,1,F,M/2.1,['M/2.1']
+3511_1138483673_05_WRI-R2_M014,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3511_1138483673_05_WRI-R2_M014.png,14,1,M,M/2.1,['M/2.1']
+1326_0381552622_01_WRI-R1_M014,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1326_0381552622_01_WRI-R1_M014.png,14,1,M,M/3.1,"['M/3.1', 'M/2.1']"
+5224_0790376429_01_WRI-R2_M014,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5224_0790376429_01_WRI-R2_M014.png,14,1,M,E/2.1,"['E/2.1', '/7']"
+5283_1165244622_06_WRI-L1_M014,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5283_1165244622_06_WRI-L1_M014.png,14,1,M,M/3.1,"['M/3.1', '/7']"
+2602_0743043712_04_WRI-L1_M014,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2602_0743043712_04_WRI-L1_M014.png,14,1,M,M/2.1,['M/2.1']
+0751_0352223092_01_WRI-L1_M015,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0751_0352223092_01_WRI-L1_M015.png,15,1,M,M/3.1,"['M/3.1', '/7']"
+1948_0565740521_01_WRI-L2_F015,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1948_0565740521_01_WRI-L2_F015.png,15,1,F,M/2.1,['M/2.1']
+4091_0424223336_04_WRI-R1_M015,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4091_0424223336_04_WRI-R1_M015.png,15,0,M,Unknown,[]
+5992_1095147967_01_WRI-R1_M015,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5992_1095147967_01_WRI-R1_M015.png,15,0,M,M/2.1,['M/2.1']
+0871_0426751418_02_WRI-L1_M015,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0871_0426751418_02_WRI-L1_M015.png,15,1,M,M/3.1,"['M/3.1', '/7']"
+1239_0201276117_01_WRI-R2_M015,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1239_0201276117_01_WRI-R2_M015.png,15,0,M,Unknown,[]
+3351_0583625507_01_WRI-L2_F015,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3351_0583625507_01_WRI-L2_F015.png,15,0,F,Unknown,[]
+0758_0893982751_01_WRI-L1_M015,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0758_0893982751_01_WRI-L1_M015.png,15,1,M,M/3.1,['M/3.1']
+0751_0359483998_02_WRI-L2_M015,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0751_0359483998_02_WRI-L2_M015.png,15,1,M,M/3.1,"['M/3.1', '/7']"
+2856_0603621262_01_WRI-R2_M015,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2856_0603621262_01_WRI-R2_M015.png,15,1,M,M/2.1,['M/2.1']
+1211_1130489261_01_WRI-R1_F015,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1211_1130489261_01_WRI-R1_F015.png,15,0,F,Unknown,[]
+4010_0785932491_02_WRI-R2_M015,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4010_0785932491_02_WRI-R2_M015.png,15,1,M,/4,['/4']
+1419_0742862676_01_WRI-R2_F015,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1419_0742862676_01_WRI-R2_F015.png,15,0,F,Unknown,[]
+3356_0369453738_01_WRI-R1_M015,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3356_0369453738_01_WRI-R1_M015.png,15,0,M,Unknown,[]
+1930_0873753693_08_WRI-R2_M015,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1930_0873753693_08_WRI-R2_M015.png,15,1,M,M/3.1,"['M/3.1', 'M/2.1', '/7']"
+4751_0731340760_01_WRI-R1_F015,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/4751_0731340760_01_WRI-R1_F015.png,15,0,F,Unknown,[]
+3215_0348462035_01_WRI-L2_F015,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3215_0348462035_01_WRI-L2_F015.png,15,0,F,Unknown,[]
+2575_0918356697_01_WRI-L1_M015,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2575_0918356697_01_WRI-L1_M015.png,15,0,M,M/2.1,['M/2.1']
+5707_0730176730_01_WRI-L2_M015,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5707_0730176730_01_WRI-L2_M015.png,15,0,M,Unknown,[]
+5956_0479216041_02_WRI-L2_M015,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5956_0479216041_02_WRI-L2_M015.png,15,0,M,Unknown,[]
+3662_0877250376_01_WRI-L2_M015,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3662_0877250376_01_WRI-L2_M015.png,15,1,M,M/3.1,"['M/3.1', '/7']"
+3051_0663657183_03_WRI-L1_M015,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3051_0663657183_03_WRI-L1_M015.png,15,1,M,M/3.1,"['M/3.1', 'M/2.1']"
+3093_0394482026_02_WRI-R1_F015,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3093_0394482026_02_WRI-R1_F015.png,15,0,F,Unknown,[]
+1326_0417712040_03_WRI-R2_M015,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1326_0417712040_03_WRI-R2_M015.png,15,1,M,Unknown,[]
+1502_0635264237_05_WRI-R1_M015,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1502_0635264237_05_WRI-R1_M015.png,15,1,M,E/2.1,['E/2.1']
+1218_0392861566_06_WRI-R1_M015,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1218_0392861566_06_WRI-R1_M015.png,15,1,M,E/2.1,"['E/2.1', '/7']"
+3294_0724668450_02_WRI-L1_F015,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3294_0724668450_02_WRI-L1_F015.png,15,0,F,Unknown,[]
+4217_0468964435_02_WRI-R2_M015,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4217_0468964435_02_WRI-R2_M015.png,15,0,M,Unknown,[]
+3956_0794032034_03_WRI-L1_M015,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3956_0794032034_03_WRI-L1_M015.png,15,1,M,M/3.1,['M/3.1']
+0037_0894273489_01_WRI-R1_M015,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0037_0894273489_01_WRI-R1_M015.png,15,0,M,Unknown,[]
+4420_0599008879_01_WRI-L2_M016,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4420_0599008879_01_WRI-L2_M016.png,16,1,M,M/3.1,"['M/3.1', '/7']"
+4370_0636781564_02_WRI-L1_M016,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4370_0636781564_02_WRI-L1_M016.png,16,0,M,Unknown,[]
+0869_0615429445_01_WRI-R1_M016,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0869_0615429445_01_WRI-R1_M016.png,16,1,M,M/3.1,"['M/3.1', '/7']"
+3431_0743643221_01_WRI-R2_F016,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3431_0743643221_01_WRI-R2_F016.png,16,0,F,Unknown,[]
+2946_0639929098_05_WRI-L1_M016,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2946_0639929098_05_WRI-L1_M016.png,16,1,M,/7,['/7']
+4040_1198630293_03_WRI-R2_F016,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4040_1198630293_03_WRI-R2_F016.png,16,1,F,Unknown,[]
+5199_1187217726_01_WRI-L1_F016,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5199_1187217726_01_WRI-L1_F016.png,16,0,F,Unknown,[]
+4536_0719095800_03_WRI-R2_F016,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/4536_0719095800_03_WRI-R2_F016.png,16,1,F,E/2.1,"['E/2.1', '/7']"
+4536_0717293339_02_WRI-R1_F016,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/4536_0717293339_02_WRI-R1_F016.png,16,1,F,E/2.1,"['E/2.1', '/7']"
+0925_1117087636_01_WRI-R1_M016,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0925_1117087636_01_WRI-R1_M016.png,16,1,M,M/2.1,['M/2.1']
+0172_0348675003_04_WRI-R1_F016,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0172_0348675003_04_WRI-R1_F016.png,16,1,F,Unknown,[]
+5345_0800299561_02_WRI-L1_F016,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5345_0800299561_02_WRI-L1_F016.png,16,0,F,Unknown,[]
+1509_0681996603_01_WRI-R1_M016,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1509_0681996603_01_WRI-R1_M016.png,16,0,M,Unknown,[]
+4701_0319518643_01_WRI-L1_M016,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/4701_0319518643_01_WRI-L1_M016.png,16,0,M,Unknown,[]
+3851_1124248255_01_WRI-R1_M016,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3851_1124248255_01_WRI-R1_M016.png,16,1,M,M/3.1,['M/3.1']
+3998_0469967261_01_WRI-R2_F016,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3998_0469967261_01_WRI-R2_F016.png,16,0,F,Unknown,[]
+5199_1196364538_02_WRI-L2_F016,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5199_1196364538_02_WRI-L2_F016.png,16,0,F,Unknown,[]
+1187_0643443209_01_WRI-L1_F016,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1187_0643443209_01_WRI-L1_F016.png,16,1,F,M/2.1,['M/2.1']
+2365_0494422723_01_WRI-L2_F016,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2365_0494422723_01_WRI-L2_F016.png,16,0,F,Unknown,[]
+5685_0508268205_01_WRI-R2_F016,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5685_0508268205_01_WRI-R2_F016.png,16,0,F,Unknown,[]
+1944_0650109945_01_WRI-R2_F016,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1944_0650109945_01_WRI-R2_F016.png,16,0,F,Unknown,[]
+0715_0398071620_01_WRI-L2_F016,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0715_0398071620_01_WRI-L2_F016.png,16,0,F,Unknown,[]
+4420_0599602482_02_WRI-L2_M016,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4420_0599602482_02_WRI-L2_M016.png,16,1,M,M/3.1,"['M/3.1', '/7']"
+1891_0949179622_03_WRI-R2_M016,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1891_0949179622_03_WRI-R2_M016.png,16,0,M,Unknown,[]
+4872_0259556298_01_WRI-R1_M016,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/4872_0259556298_01_WRI-R1_M016.png,16,0,M,Unknown,[]
+2244_0291798415_05_WRI-L1_M016,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2244_0291798415_05_WRI-L1_M016.png,16,1,M,M/3.1,['M/3.1']
+3504_1111665585_01_WRI-R1_M016,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3504_1111665585_01_WRI-R1_M016.png,16,0,M,Unknown,[]
+2937_1142597405_05_WRI-R2_M016,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2937_1142597405_05_WRI-R2_M016.png,16,1,M,E/2.1,"['E/2.1', '/7']"
+4769_1157912909_01_WRI-R1_F016,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/4769_1157912909_01_WRI-R1_F016.png,16,0,F,M/2.1,['M/2.1']
+3113_0833838148_02_WRI-R2_F016,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3113_0833838148_02_WRI-R2_F016.png,16,0,F,Unknown,[]
+5679_0450394331_01_WRI-L1_M017,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5679_0450394331_01_WRI-L1_M017.png,17,0,M,M/2.1,['M/2.1']
+5478_0159714180_01_WRI-L2_F017,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5478_0159714180_01_WRI-L2_F017.png,17,0,F,Unknown,[]
+3497_1095007853_01_WRI-R2_F017,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3497_1095007853_01_WRI-R2_F017.png,17,0,F,Unknown,[]
+2228_0568565161_01_WRI-L2_F017,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2228_0568565161_01_WRI-L2_F017.png,17,0,F,Unknown,[]
+5157_1259255888_01_WRI-L2_F017,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5157_1259255888_01_WRI-L2_F017.png,17,0,F,Unknown,[]
+5920_1310040399_04_WRI-L2_M017,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5920_1310040399_04_WRI-L2_M017.png,17,1,M,M/3.1,"['M/3.1', '/7']"
+2955_0891992759_02_WRI-L1_M017,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2955_0891992759_02_WRI-L1_M017.png,17,0,M,Unknown,[]
+1392_0677451874_01_WRI-R1_M017,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1392_0677451874_01_WRI-R1_M017.png,17,1,M,/3,['/3']
+1521_0715820896_01_WRI-L2_M017,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1521_0715820896_01_WRI-L2_M017.png,17,0,M,Unknown,[]
+2652_0968576207_01_WRI-R2_F017,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2652_0968576207_01_WRI-R2_F017.png,17,0,F,Unknown,[]
+0589_0820619217_03_WRI-L1_M017,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0589_0820619217_03_WRI-L1_M017.png,17,1,M,M/3.1,"['M/3.1', '/7']"
+2112_0597854351_02_WRI-R2_F017,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2112_0597854351_02_WRI-R2_F017.png,17,0,F,Unknown,[]
+5485_0363967481_05_WRI-R1_M017,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5485_0363967481_05_WRI-R1_M017.png,17,1,M,M/3.1,['M/3.1']
+4813_0710361513_01_WRI-L1_M017,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/4813_0710361513_01_WRI-L1_M017.png,17,1,M,M/3.1,['M/3.1']
+4217_0507863213_03_WRI-R1_M017,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/4217_0507863213_03_WRI-R1_M017.png,17,0,M,Unknown,[]
+1561_1091787457_01_WRI-L2_F017,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/1561_1091787457_01_WRI-L2_F017.png,17,0,F,Unknown,[]
+4658_0466027884_01_WRI-R1_M017,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/4658_0466027884_01_WRI-R1_M017.png,17,0,M,Unknown,[]
+3497_1095007808_01_WRI-R1_F017,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3497_1095007808_01_WRI-R1_F017.png,17,0,F,Unknown,[]
+1395_0718706008_03_WRI-L2_F017,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1395_0718706008_03_WRI-L2_F017.png,17,1,F,M/3.1,"['M/3.1', '/7']"
+5485_0361553225_02_WRI-R1_M017,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5485_0361553225_02_WRI-R1_M017.png,17,1,M,M/3.1,['M/3.1']
+1153_0955282861_01_WRI-R2_M017,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1153_0955282861_01_WRI-R2_M017.png,17,0,M,Unknown,[]
+5478_0159714162_01_WRI-L1_F017,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5478_0159714162_01_WRI-L1_F017.png,17,0,F,Unknown,[]
+5897_0645673874_01_WRI-L1_F017,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5897_0645673874_01_WRI-L1_F017.png,17,0,F,Unknown,[]
+2630_0493759271_01_WRI-L2_M017,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2630_0493759271_01_WRI-L2_M017.png,17,0,M,Unknown,[]
+5485_0362151526_03_WRI-R1_M017,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5485_0362151526_03_WRI-R1_M017.png,17,1,M,M/3.1,['M/3.1']
+0354_0544727691_01_WRI-R1_M017,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0354_0544727691_01_WRI-R1_M017.png,17,0,M,Unknown,[]
+1472_0418577768_03_WRI-L1_F017,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1472_0418577768_03_WRI-L1_F017.png,17,1,F,M/3.1,['M/3.1']
+3942_0347140844_01_WRI-L2_F017,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3942_0347140844_01_WRI-L2_F017.png,17,0,F,Unknown,[]
+5239_0421839454_01_WRI-R2_F017,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5239_0421839454_01_WRI-R2_F017.png,17,0,F,Unknown,[]
+5226_0492396792_01_WRI-R2_F017,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5226_0492396792_01_WRI-R2_F017.png,17,0,F,Unknown,[]
+2399_1145381000_02_WRI-L2_M018,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2399_1145381000_02_WRI-L2_M018.png,18,0,M,Unknown,[]
+3184_0972489124_02_WRI-R2_M018,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3184_0972489124_02_WRI-R2_M018.png,18,0,M,Unknown,[]
+3996_1208203999_01_WRI-L2_M018,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3996_1208203999_01_WRI-L2_M018.png,18,0,M,Unknown,[]
+0941_0167326850_02_WRI-L2_M018,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/0941_0167326850_02_WRI-L2_M018.png,18,0,M,Unknown,[]
+4855_1065944218_03_WRI-R2_F018,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/4855_1065944218_03_WRI-R2_F018.png,18,0,F,Unknown,[]
+3184_0965838468_01_WRI-R2_M018,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3184_0965838468_01_WRI-R2_M018.png,18,0,M,Unknown,[]
+4636_0917126362_01_WRI-R1_M018,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/4636_0917126362_01_WRI-R1_M018.png,18,1,M,Unknown,[]
+3184_0974992744_03_WRI-R1_M018,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3184_0974992744_03_WRI-R1_M018.png,18,0,M,Unknown,[]
+5708_0154791411_01_WRI-R2_M018,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5708_0154791411_01_WRI-R2_M018.png,18,0,M,Unknown,[]
+3332_1160112455_01_WRI-R2_F018,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3332_1160112455_01_WRI-R2_F018.png,18,0,F,Unknown,[]
+3332_1160112301_01_WRI-R1_F018,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3332_1160112301_01_WRI-R1_F018.png,18,0,F,Unknown,[]
+6011_0432611721_01_WRI-L2_M018,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/6011_0432611721_01_WRI-L2_M018.png,18,0,M,Unknown,[]
+3886_0726165279_02_WRI-R1_M018,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3886_0726165279_02_WRI-R1_M018.png,18,0,M,Unknown,[]
+2399_1145380944_01_WRI-L1_M018,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2399_1145380944_01_WRI-L1_M018.png,18,0,M,Unknown,[]
+3184_0972489056_02_WRI-R1_M018,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3184_0972489056_02_WRI-R1_M018.png,18,0,M,Unknown,[]
+1049_1228709045_06_WRI-L2_M018,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1049_1228709045_06_WRI-L2_M018.png,18,1,M,M/3.1,"['M/3.1', '/7']"
+5509_0695010861_01_WRI-R2_M018,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5509_0695010861_01_WRI-R2_M018.png,18,0,M,Unknown,[]
+3996_1208204034_02_WRI-L2_M018,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part3/3996_1208204034_02_WRI-L2_M018.png,18,0,M,Unknown,[]
+1049_1229917151_07_WRI-L2_M018,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1049_1229917151_07_WRI-L2_M018.png,18,1,M,M/3.1,"['M/3.1', '/7']"
+5191_0609410730_02_WRI-L1_M018,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5191_0609410730_02_WRI-L1_M018.png,18,0,M,Unknown,[]
+2943_0527312985_01_WRI-R1_F018,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2943_0527312985_01_WRI-R1_F018.png,18,1,F,M/2.1,['M/2.1']
+5205_0846514976_01_WRI-L2_F018,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/5205_0846514976_01_WRI-L2_F018.png,18,0,F,Unknown,[]
+2810_0219327653_01_WRI-L2_M018,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2810_0219327653_01_WRI-L2_M018.png,18,0,M,Unknown,[]
+4636_0917126409_01_WRI-R2_M018,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/4636_0917126409_01_WRI-R2_M018.png,18,1,M,Unknown,[]
+4855_1065944199_03_WRI-R1_F018,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/4855_1065944199_03_WRI-R1_F018.png,18,0,F,Unknown,[]
+4697_0610361441_02_WRI-L1_M018,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/4697_0610361441_02_WRI-L1_M018.png,18,1,M,M/3.1,"['M/3.1', '/7']"
+4697_0610361505_02_WRI-L2_M018,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/4697_0610361505_02_WRI-L2_M018.png,18,1,M,M/3.1,"['M/3.1', '/7']"
+1049_1227500516_04_WRI-L2_M018,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part1/1049_1227500516_04_WRI-L2_M018.png,18,1,M,M/3.1,"['M/3.1', '/7']"
+4697_0612778879_04_WRI-L2_M018,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/4697_0612778879_04_WRI-L2_M018.png,18,1,M,M/3.1,"['M/3.1', '/7']"
+4697_0610357732_01_WRI-L2_M018,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part4/4697_0610357732_01_WRI-L2_M018.png,18,1,M,M/3.1,"['M/3.1', '/7']"
+2528_1300670026_01_WRI-L2_M019,/mnt/data/KimJG/ELBOW_test/Kaggle_dataset/images_part2/2528_1300670026_01_WRI-L2_M019.png,19,0,M,Unknown,[]
